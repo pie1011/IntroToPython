@@ -16,4 +16,4 @@ Please complete the following functions in [Activity_1_Python_Function_Fun_Part_
 
 ## Solution
 
-If you get stuck or want to check your work, check out the [solution guide](https://replit.com/@SD-Team/1021-solution#main.py).
+If you get stuck or want to check your work, check out the [solution guide](Activity_1_Python_Function_Fun_Part_2_Solution.py).
